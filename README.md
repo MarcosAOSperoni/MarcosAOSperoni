@@ -3,7 +3,7 @@
 -  I’m currently learning reverse engineering of malware.
 -  I’m looking to collaborate on web app development.
 -  How to reach me www.marcossperoni.com/contact
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like photography, cooking, and travel.
 
 <!---
 MarcosAOSperoni/MarcosAOSperoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
